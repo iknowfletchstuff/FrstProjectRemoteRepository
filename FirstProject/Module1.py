@@ -15,7 +15,8 @@ print ( x )
 Boink = 45
 boink = Boink + 1
 print( Boink )
-
+print ( Boink +1 )
+print ( Boink + 2 )
 
 if __name__ == '__main__':
     pass
